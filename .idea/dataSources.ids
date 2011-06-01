@@ -1,0 +1,29 @@
+<?xml version="1.0"?><component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails sample_app: development" product="" version="" jdbc-version="" driver-version="" uuid="a78459db-203a-4298-952e-1a81356f3c44">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/sample_app_development</jdbc-url>
+    <libraries>
+      <library>
+        <url>jar://$USER_HOME$/.RubyMine31/config/jdbc-drivers/mysql-connector-java-5.1.15-bin.jar!/</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails sample_app: test" product="" version="" jdbc-version="" driver-version="" uuid="f5c4e1d0-aeb2-4f00-95af-c3fcbf768c4a">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/sample_app_test</jdbc-url>
+    <libraries>
+      <library>
+        <url>jar://$USER_HOME$/.RubyMine31/config/jdbc-drivers/mysql-connector-java-5.1.15-bin.jar!/</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails sample_app: production" product="" version="" jdbc-version="" driver-version="" uuid="637546bd-542d-4589-a8c3-0c7d548bdb8e">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/sample_app_production</jdbc-url>
+    <libraries>
+      <library>
+        <url>jar://$USER_HOME$/.RubyMine31/config/jdbc-drivers/mysql-connector-java-5.1.15-bin.jar!/</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
